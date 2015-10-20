@@ -1,3 +1,8 @@
+/*
+Integrantes:
+Natalia Marin
+Randy Salas
+*/
 final int UP = 0;
 final int LEFT = 1;
 final int DOWN = 2;
