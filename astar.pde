@@ -1,3 +1,8 @@
+/*
+Integrantes:
+Natalia Marin
+Randy Salas
+*/
 PImage img;
 int raw_puzzle[] [];
 int puzzle[][];
